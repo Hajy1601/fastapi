@@ -12,7 +12,7 @@ def home():
     b = a.json()
     return b
 
-print("CHLEEEN")
+print("Sam chlen")
 
 
 if __name__ == "__main__":
