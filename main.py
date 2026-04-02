@@ -12,6 +12,7 @@ def home():
     b = a.json()
     return b
 
+print("CHLEEEN")
 
 
 if __name__ == "__main__":
